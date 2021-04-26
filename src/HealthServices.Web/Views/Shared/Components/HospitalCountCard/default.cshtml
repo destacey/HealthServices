@@ -1,0 +1,29 @@
+﻿@model int
+
+<div class="card shadow mb-3 clickable" id="hospital-count-card">
+    <div class="card-body">
+        <div class="row card-title justify-content-between mx-1 mb-0">
+            <h4 class="mb-0">View our list of available hospitals</h4>
+        </div>
+        <div class="card-text">
+            <p class="font-weight-bold text-right text-primary m-0" style="font-size:80px;">@Model</p>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const hopitalCountCard = document.getElementById("hospital-count-card");
+
+        hopitalCountCard.addEventListener("click", function () {
+            window.location = "hospitals";
+        })
+    });
+
+    function GetBaseUrl() {
+        const appRootUrl = document.getElementsByTagName('base')[0].getAttribute('href');
+        const baseUrl = appRootUrl.substring(0, appRootUrl.length - 1);
+        return baseUrl;
+    }
+</script>

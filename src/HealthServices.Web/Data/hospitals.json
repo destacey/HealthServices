@@ -1,0 +1,462 @@
+﻿[
+	{
+		"Id": "1",
+		"Name": "AllianceHealth Clinton",
+		"Line1": "100 N. 30th St.",
+		"Line2": "",
+		"City": "Clinton",
+		"State": "Oklahoma",
+		"ZipCode": "73601",
+		"PhoneNumber": "5803232363"
+	},
+	{
+		"Id": "2",
+		"Name": "AllianceHealth Durant",
+		"Line1": "1800 University Blvd",
+		"Line2": "",
+		"City": "Durant",
+		"State": "Oklahoma",
+		"ZipCode": "74071",
+		"PhoneNumber": "5809243080"
+	},
+	{
+		"Id": "3",
+		"Name": "AllianceHealth Ponca City",
+		"Line1": "1900 N. 14th St.",
+		"Line2": "",
+		"City": "Ponca City",
+		"State": "Oklahoma",
+		"ZipCode": "74601",
+		"PhoneNumber": "5807653321"
+	},
+	{
+		"Id": "4",
+		"Name": "AllianceHealth Woodward",
+		"Line1": "900 17th St.",
+		"Line2": "Bldg 1",
+		"City": "Woodward",
+		"State": "Oklahoma",
+		"ZipCode": "73801",
+		"PhoneNumber": "5802565511"
+	},
+	{
+		"Id": "5",
+		"Name": "Ascension Jane Phillips Medical Center",
+		"Line1": "3500 E. Frank Phillips Blvd",
+		"Line2": "",
+		"City": "Bartlesville",
+		"State": "Oklahoma",
+		"ZipCode": "74006",
+		"PhoneNumber": "9183337200"
+	},
+	{
+		"Id": "6",
+		"Name": "Ascension St. John Medical Center",
+		"Line1": "1923 S. Utica Ave.",
+		"Line2": "",
+		"City": "Tulsa",
+		"State": "Oklahoma",
+		"ZipCode": "74104",
+		"PhoneNumber": "9187442345"
+	},
+	{
+		"Id": "7",
+		"Name": "Ascension St. John Owasso",
+		"Line1": "12451 E. 100th North",
+		"Line2": "",
+		"City": "Owasso",
+		"State": "Oklahoma",
+		"ZipCode": "74055",
+		"PhoneNumber": "9182745000"
+	},
+	{
+		"Id": "8",
+		"Name": "Bailey Medical Center",
+		"Line1": "10502 N. 110th East Ave",
+		"Line2": "",
+		"City": "Owasso",
+		"State": "Oklahoma",
+		"ZipCode": "74055",
+		"PhoneNumber": "9183768000"
+	},
+	{
+		"Id": "9",
+		"Name": "Cherokee Nation WW Hastings Hospital",
+		"Line1": "100 S. Bliss Ave.",
+		"Line2": "",
+		"City": "Tahlequah",
+		"State": "Oklahoma",
+		"ZipCode": "74464",
+		"PhoneNumber": "9184583100"
+	},
+	{
+		"Id": "10",
+		"Name": "Chickasaw Nation Medical Center",
+		"Line1": "1921 Stonecipher Rd.",
+		"Line2": "",
+		"City": "Ada",
+		"State": "Oklahoma",
+		"ZipCode": "74820",
+		"PhoneNumber": "5804363980"
+	},
+	{
+		"Id": "11",
+		"Name": "Choctaw Nation Health Care Center",
+		"Line1": "One Choctaw Way",
+		"Line2": "Bldg 1",
+		"City": "Talihina",
+		"State": "Oklahoma",
+		"ZipCode": "74571",
+		"PhoneNumber": "9185677000"
+	},
+	{
+		"Id": "12",
+		"Name": "Claremore Indian Hospital",
+		"Line1": "101 S. Moore",
+		"Line2": "",
+		"City": "Claremore",
+		"State": "Oklahoma",
+		"ZipCode": "74017",
+		"PhoneNumber": "9183426200"
+	},
+	{
+		"Id": "13",
+		"Name": "Comanche County Memorial Hospital",
+		"Line1": "3401 W. Gore Blvd",
+		"Line2": "",
+		"City": "Lawton",
+		"State": "Oklahoma",
+		"ZipCode": "73505",
+		"PhoneNumber": "5803558620"
+	},
+	{
+		"Id": "14",
+		"Name": "Duncan Regional Hospital",
+		"Line1": "1407 Whisenant Dr.",
+		"Line2": "",
+		"City": "Duncan",
+		"State": "Oklahoma",
+		"ZipCode": "73533",
+		"PhoneNumber": "5802525300"
+	},
+	{
+		"Id": "15",
+		"Name": "Great Plains Regional Medical Center",
+		"Line1": "1801 W. Third",
+		"Line2": "Bldg 1",
+		"City": "Elk City",
+		"State": "Oklahoma",
+		"ZipCode": "73644",
+		"PhoneNumber": "5802252511"
+	},
+	{
+		"Id": "16",
+		"Name": "Hillcrest Hospital Claremore",
+		"Line1": "1202 N. Muskogee Pl.",
+		"Line2": "",
+		"City": "Claremore",
+		"State": "Oklahoma",
+		"ZipCode": "74017",
+		"PhoneNumber": "9183412556"
+	},
+	{
+		"Id": "17",
+		"Name": "Hillcrest Hospital South",
+		"Line1": "8801 S 101st E. Ave",
+		"Line2": "",
+		"City": "Tulsa",
+		"State": "Oklahoma",
+		"ZipCode": "74133",
+		"PhoneNumber": "9182944000"
+	},
+	{
+		"Id": "18",
+		"Name": "Hillcrest Medical Center",
+		"Line1": "1120 S. Utica Ave",
+		"Line2": "",
+		"City": "Tulsa",
+		"State": "Oklahoma",
+		"ZipCode": "74104",
+		"PhoneNumber": "9185791000"
+	},
+	{
+		"Id": "19",
+		"Name": "INTEGRIS Baptist Medical Center",
+		"Line1": "3300 NW Expressway",
+		"Line2": "",
+		"City": "Oklahoma City",
+		"State": "Oklahoma",
+		"ZipCode": "73112",
+		"PhoneNumber": "4059493011"
+	},
+	{
+		"Id": "20",
+		"Name": "INTEGRIS Bass Baptist Health Center",
+		"Line1": "600 S. Monroe",
+		"Line2": "",
+		"City": "Enid",
+		"State": "Oklahoma",
+		"ZipCode": "73701",
+		"PhoneNumber": "5802332300"
+	},
+	{
+		"Id": "21",
+		"Name": "INTEGRIS Canadian Valley Hospital",
+		"Line1": "1201 Health Center Pkwy",
+		"Line2": "Bldg 1",
+		"City": "Yukon",
+		"State": "Oklahoma",
+		"ZipCode": "73099",
+		"PhoneNumber": "4057176800"
+	},
+	{
+		"Id": "22",
+		"Name": "INTEGRIS Grove Hospital",
+		"Line1": "1001 E. 18th",
+		"Line2": "",
+		"City": "Grove",
+		"State": "Oklahoma",
+		"ZipCode": "74344",
+		"PhoneNumber": "9187862243"
+	},
+	{
+		"Id": "23",
+		"Name": "INTEGRIS Health Edmond",
+		"Line1": "4801 Integris Pkwy",
+		"Line2": "",
+		"City": "Edmond",
+		"State": "Oklahoma",
+		"ZipCode": "73034",
+		"PhoneNumber": "4056573000"
+	},
+	{
+		"Id": "24",
+		"Name": "INTEGRIS Miami Hospital",
+		"Line1": "200 2nd Ave SW",
+		"Line2": "",
+		"City": "Miami",
+		"State": "Oklahoma",
+		"ZipCode": "74354",
+		"PhoneNumber": "9185426611"
+	},
+	{
+		"Id": "25",
+		"Name": "INTEGRIS Southwest Medical Center",
+		"Line1": "4401 S. Western",
+		"Line2": "",
+		"City": "Oklahoma City",
+		"State": "Oklahoma",
+		"ZipCode": "73109",
+		"PhoneNumber": "4056367000"
+	},
+	{
+		"Id": "26",
+		"Name": "Jackson County Memorial Hospital",
+		"Line1": "1200 E. Pecan",
+		"Line2": "",
+		"City": "Altus",
+		"State": "Oklahoma",
+		"ZipCode": "73521",
+		"PhoneNumber": "5803795000"
+	},
+	{
+		"Id": "27",
+		"Name": "Lakeside Women's Hospital",
+		"Line1": "11200 N. Portland",
+		"Line2": "",
+		"City": "Oklahoma City",
+		"State": "Oklahoma",
+		"ZipCode": "73120",
+		"PhoneNumber": "4059361500"
+	},
+	{
+		"Id": "28",
+		"Name": "McAlester Regional Health Center",
+		"Line1": "1 E. Clark Bass Blvd",
+		"Line2": "",
+		"City": "McAlester",
+		"State": "Oklahoma",
+		"ZipCode": "74501",
+		"PhoneNumber": "9184261800"
+	},
+	{
+		"Id": "29",
+		"Name": "McCurtain Memorial Hospital",
+		"Line1": "1301 E Lincoln Rd.",
+		"Line2": "",
+		"City": "Idabel",
+		"State": "Oklahoma",
+		"ZipCode": "74745",
+		"PhoneNumber": "5802867623"
+	},
+	{
+		"Id": "30",
+		"Name": "Memorial Hospital of Stilwell",
+		"Line1": "1401 W Locust St",
+		"Line2": "",
+		"City": "Stilwell",
+		"State": "Oklahoma",
+		"ZipCode": "74960",
+		"PhoneNumber": "9186963101"
+	},
+	{
+		"Id": "31",
+		"Name": "Mercy Hospital Ada",
+		"Line1": "430 N. Monte Vista",
+		"Line2": "",
+		"City": "Ada",
+		"State": "Oklahoma",
+		"ZipCode": "74820",
+		"PhoneNumber": "5803322323"
+	},
+	{
+		"Id": "32",
+		"Name": "Mercy Hospital Ardmore",
+		"Line1": "1011 14th Ave. NW",
+		"Line2": "",
+		"City": "Ardmore",
+		"State": "Oklahoma",
+		"ZipCode": "73401",
+		"PhoneNumber": "5802235400"
+	},
+	{
+		"Id": "33",
+		"Name": "Mercy Hospital Oklahoma City",
+		"Line1": "4300 W. Memorial Rd.",
+		"Line2": "",
+		"City": "Oklahoma City",
+		"State": "Oklahoma",
+		"ZipCode": "73120",
+		"PhoneNumber": "4057551515"
+	},
+	{
+		"Id": "34",
+		"Name": "Norman Regional HealthPlex",
+		"Line1": "3300 Healthplex Pkwy",
+		"Line2": "",
+		"City": "Norman",
+		"State": "Oklahoma",
+		"ZipCode": "73072",
+		"PhoneNumber": "4055151000"
+	},
+	{
+		"Id": "35",
+		"Name": "Northeastern Health System",
+		"Line1": "1400 E. Downing St.",
+		"Line2": "",
+		"City": "Tahlequah",
+		"State": "Oklahoma",
+		"ZipCode": "74464",
+		"PhoneNumber": "9184560641"
+	},
+	{
+		"Id": "36",
+		"Name": "Oklahoma Children's Hospital at OU Health",
+		"Line1": "1200 N Children's Ave.",
+		"Line2": "",
+		"City": "Oklahoma City",
+		"State": "Oklahoma",
+		"ZipCode": "73104",
+		"PhoneNumber": "4052714700"
+	},
+	{
+		"Id": "37",
+		"Name": "OSU Medical Center",
+		"Line1": "744 W. 9th St.",
+		"Line2": "",
+		"City": "Tulsa",
+		"State": "Oklahoma",
+		"ZipCode": "74127",
+		"PhoneNumber": "9185991000"
+	},
+	{
+		"Id": "38",
+		"Name": "Saint Francis Hospital",
+		"Line1": "6161 S. Yale",
+		"Line2": "",
+		"City": "Tulsa",
+		"State": "Oklahoma",
+		"ZipCode": "74136",
+		"PhoneNumber": "9184942200"
+	},
+	{
+		"Id": "39",
+		"Name": "Saint Francis Hospital Muskogee",
+		"Line1": "300 Rockefeller Dr.",
+		"Line2": "Bldg 1",
+		"City": "Muskogee",
+		"State": "Oklahoma",
+		"ZipCode": "74401",
+		"PhoneNumber": "9186825501"
+	},
+	{
+		"Id": "40",
+		"Name": "Saint Francis Hospital South",
+		"Line1": "10501 E. 91st St. South",
+		"Line2": "",
+		"City": "Tulsa",
+		"State": "Oklahoma",
+		"ZipCode": "74133",
+		"PhoneNumber": "9183076000"
+	},
+	{
+		"Id": "41",
+		"Name": "Southwestern Medical Center",
+		"Line1": "5602 SW Lee Blvd.",
+		"Line2": "",
+		"City": "Lawton",
+		"State": "Oklahoma",
+		"ZipCode": "73505",
+		"PhoneNumber": "5805314700"
+	},
+	{
+		"Id": "42",
+		"Name": "SSM Health St. Anthony Hospital ' Oklahoma City",
+		"Line1": "1000 N Lee Ave",
+		"Line2": "",
+		"City": "Oklahoma City",
+		"State": "Oklahoma",
+		"ZipCode": "73101",
+		"PhoneNumber": "4052727000"
+	},
+	{
+		"Id": "43",
+		"Name": "SSM Health St. Anthony Hospital ' Shawnee",
+		"Line1": "1102 W. Macarthur",
+		"Line2": "",
+		"City": "Shawnee",
+		"State": "Oklahoma",
+		"ZipCode": "74804",
+		"PhoneNumber": "4052732270"
+	},
+	{
+		"Id": "44",
+		"Name": "St. Mary's Regional Medical Center",
+		"Line1": "305 S. 5th St.",
+		"Line2": "",
+		"City": "Enid",
+		"State": "Oklahoma",
+		"ZipCode": "73701",
+		"PhoneNumber": "5802336100"
+	},
+	{
+		"Id": "45",
+		"Name": "Stillwater Medical Center",
+		"Line1": "1323 W. 6th Ave.",
+		"Line2": "",
+		"City": "Stillwater",
+		"State": "Oklahoma",
+		"ZipCode": "74074",
+		"PhoneNumber": "4053721480"
+	},
+	{
+		"Id": "46",
+		"Name": "Weatherford Regional Hospital",
+		"Line1": "3701 E. Main",
+		"Line2": "",
+		"City": "Weatherford",
+		"State": "Oklahoma",
+		"ZipCode": "73096",
+		"PhoneNumber": "5807725551"
+	}
+]

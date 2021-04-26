@@ -1,0 +1,67 @@
+﻿@model IEnumerable<HealthServices.Application.Hospitals.Dtos.HospitalListDto>
+
+@{
+    ViewData["Title"] = "Hospitals";
+}
+
+<h2>Hospitals</h2>
+
+<div>
+    <div class="row justify-content-between mx-0 mb-3">
+        <a asp-action="Create">Create New</a>
+        <input class="col-lg-3 col-md-4 form-control" type="text" id="hospitals-grid-filter-text-box" placeholder="Quick Search" />
+    </div>
+    <div id="hospitals-grid" style="height: 800px; width: 100%;" class="ag-theme-alpine"></div>
+</div>
+
+
+@section Scripts {
+    <script src="https://unpkg.com/ag-grid-community/dist/ag-grid-community.min.js"></script>
+
+    <script>
+        const columnDefs = [
+            {
+                headerName: "Name", field: "name",
+                cellRenderer: function (params) {
+                    return "<a href='hospitals/details/" + params.data.id + "'>" + params.data.name + "</a>";
+                }
+            },
+            { headerName: "City", field: "city" },
+            { headerName: "State", field: "state" },
+            { headerName: "Phone Number", field: "phoneNumber" }
+        ];
+
+        // setup the grid after the page has finished loading
+        document.addEventListener('DOMContentLoaded', () => {
+            const gridDiv = document.querySelector('#hospitals-grid');
+
+            // let the grid know which columns and what data to use
+            const gridOptions = {
+                columnDefs: columnDefs,
+                suppressCellSelection: true,
+                defaultColDef: {
+                    headerClass: 'font-weight-bold',
+                    sortable: true,
+                    filter: true,
+                    resizable: true
+                }
+            };
+
+            new agGrid.Grid(gridDiv, gridOptions);
+
+            agGrid.simpleHttpRequest({
+                url: 'api/hospitals'
+            }).then(function (data) {
+                gridOptions.api.setRowData(data);
+                gridOptions.columnApi.autoSizeAllColumns();
+            });
+
+            const quickFilterElement = document.getElementById('hospitals-grid-filter-text-box');
+            quickFilterElement.addEventListener("input", onFilterTextBoxChanged);
+
+            function onFilterTextBoxChanged() {
+                gridOptions.api.setQuickFilter(quickFilterElement.value);
+            }
+        });
+    </script>
+}
